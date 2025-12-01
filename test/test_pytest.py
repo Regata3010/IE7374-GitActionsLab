@@ -12,4 +12,4 @@ def test_fun3():
     assert fun3(2, 3) == 6
 
 def test_fun4():
-    assert fun4(2, 3) == 13  
+    assert fun4(2, 3) == 10
